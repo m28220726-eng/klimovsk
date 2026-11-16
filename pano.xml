@@ -15,9 +15,9 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="132.05" skinid="ht_node" target="178.5/-16.6/117.0" tilt="-2.88" title="" url="{node6}"/>
-      <hotspot description="" id="Point02" pan="144.81" skinid="ht_node" target="76.1/-4.1/100.0" tilt="-13.31" title="" url="{node2}"/>
-      <hotspot description="" id="Point03" pan="-21.36" skinid="ht_node" target="-137.9/2.2/117.0" tilt="-9.02" title="" url="{node7}"/>
+      <hotspot description="" id="Point01" pan="131.75" skinid="ht_node" target="178.5/1.0/117.0" tilt="-2.83" title="" url="{node6}"/>
+      <hotspot description="" id="Point02" pan="143.6" skinid="ht_node" target="70.7/1.1/100.0" tilt="-2.76" title="" url="{node2}"/>
+      <hotspot description="" id="Point03" pan="-21.36" skinid="ht_node" target="179.1/-2.8/117.0" tilt="-9.02" title="" url="{node7}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -39,8 +39,8 @@
     <hotspots>
       <hotspot description="" id="Point01" pan="115.26" skinid="ht_node" target="179.5/-14.7/117.0" tilt="-6.18" title="" url="{node6}"/>
       <hotspot description="" id="Point02" pan="-111.83" skinid="ht_node" target="-169.1/-2.3/117.0" tilt="-1.14" title="" url="{node3}"/>
-      <hotspot description="" id="Point03" pan="-34.26" skinid="ht_node" target="-20.0/-1.0/100.0" tilt="-11.9" title="" url="{node1}"/>
-      <hotspot description="" id="Point04" pan="69.12" skinid="ht_node" target="100.5/-6.5/100.0" tilt="-6.75" title="" url="{node4}"/>
+      <hotspot description="" id="Point03" pan="-33.25" skinid="ht_node" target="-20.0/-1.0/100.0" tilt="-12.79" title="" url="{node1}"/>
+      <hotspot description="" id="Point04" pan="69.19" skinid="ht_node" target="102.0/-3.4/100.0" tilt="-2.76" title="" url="{node4}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -60,7 +60,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="1.83" skinid="ht_node" target="74.2/-1.5/100.0" tilt="-5.34" title="" url="{node2}"/>
+      <hotspot description="" id="Point01" pan="1.56" skinid="ht_node" target="74.2/-1.5/100.0" tilt="-0.6" title="" url="{node2}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -80,10 +80,9 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-80.65" skinid="ht_node" target="" tilt="-9.5" title="" url="{node2}"/>
-      <hotspot description="" id="Point02" pan="-86.38" skinid="ht_node" target="" tilt="-1.21" title="" url="{node3}"/>
-      <hotspot description="" id="Point03" pan="-60.79" skinid="ht_node" target="" tilt="-0.75" title="" url="{node1}"/>
-      <hotspot description="" id="Point04" pan="105.35" skinid="ht_node" target="0.0/0.0/108.2" tilt="-1.25" title="" url="{node5}"/>
+      <hotspot description="" id="Point01" pan="-83.95" skinid="ht_node" target="-106.3/-3.8/100.0" tilt="-1.33" title="" url="{node2}"/>
+      <hotspot description="" id="Point03" pan="-60.49" skinid="ht_node" target="-21.3/-3.0/126.6" tilt="-1.9" title="" url="{node1}"/>
+      <hotspot description="" id="Point04" pan="103.25" skinid="ht_node" target="2.1/-1.8/108.2" tilt="-1.47" title="" url="{node5}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -103,7 +102,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-171.43" skinid="ht_node" target="-81.5/-1.7/100.0" tilt="-2.9" title="" url="{node4}"/>
+      <hotspot description="" id="Point01" pan="-171.74" skinid="ht_node" target="-81.5/-1.7/100.0" tilt="-1.47" title="" url="{node4}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -123,7 +122,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-12.94" skinid="ht_node" target="" tilt="-14.68" title="" url="{node2}"/>
+      <hotspot description="" id="Point01" pan="-13.64" skinid="ht_node" target="" tilt="-14.64" title="" url="{node2}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -143,8 +142,8 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-1.84" skinid="ht_node" target="110.4/0.7/117.0" tilt="-9.68" title="" url="{node1}"/>
-      <hotspot description="" id="Point02" pan="179.29" skinid="ht_node" target="48.6/3.8/108.2" tilt="-5.59" title="" url="{node8}"/>
+      <hotspot description="" id="Point01" pan="-3.54" skinid="ht_node" target="110.4/0.7/117.0" tilt="-9.29" title="" url="{node1}"/>
+      <hotspot description="" id="Point02" pan="179.38" skinid="ht_node" target="46.8/-0.6/126.6" tilt="-1.82" title="" url="{node8}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -166,7 +165,7 @@
     <hotspots>
       <hotspot description="" id="Point01" pan="179.46" skinid="ht_node" target="-32.0/0.2/117.0" tilt="-4.83" title="" url="{node7}"/>
       <hotspot description="" id="Point02" pan="89.76" skinid="ht_node" target="178.6/-0.9/100.0" tilt="-4.88" title="" url="{node9}"/>
-      <hotspot description="" id="Point03" pan="-0.16" skinid="ht_node" target="151.1/1.9/126.6" tilt="-8.74" title="" url="{node13}"/>
+      <hotspot description="" id="Point03" pan="-0.69" skinid="ht_node" target="151.1/-4.5/136.9" tilt="-4.27" title="" url="{node13}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -186,8 +185,8 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-0.47" skinid="ht_node" target="41.4/-4.3/117.0" tilt="-0.38" title="" url="{node8}"/>
-      <hotspot description="" id="Point02" pan="179.7" skinid="ht_node" target="-39.9/-1.6/117.0" tilt="-0.77" title="" url="{node10}"/>
+      <hotspot description="" id="Point01" pan="-0.36" skinid="ht_node" target="-38.2/-1.2/126.6" tilt="-0.7" title="" url="{node8}"/>
+      <hotspot description="" id="Point02" pan="179.7" skinid="ht_node" target="-8.1/-1.4/117.0" tilt="-0.77" title="" url="{node10}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -208,7 +207,7 @@
     </view>
     <hotspots>
       <hotspot description="" id="Point01" pan="-96.93" skinid="ht_node" target="0.0/-5.1/100.0" tilt="-4.74" title="" url="{node9}"/>
-      <hotspot description="" id="Point02" pan="0.27" skinid="ht_node" target="-140.5/1.4/126.6" tilt="-1.01" title="" url="{node11}"/>
+      <hotspot description="" id="Point02" pan="0.73" skinid="ht_node" target="-139.9/-9.5/126.6" tilt="-0.32" title="" url="{node11}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -228,8 +227,8 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-94.61" skinid="ht_node" target="-45.5/-7.4/117.0" tilt="-2.67" title="" url="{node10}"/>
-      <hotspot description="" id="Point02" pan="-4.68" skinid="ht_node" target="-178.3/4.1/117.0" tilt="-2.57" title="" url="{node12}"/>
+      <hotspot description="" id="Point01" pan="-94.61" skinid="ht_node" target="-56.9/-6.7/117.0" tilt="-2.67" title="" url="{node10}"/>
+      <hotspot description="" id="Point02" pan="-4.68" skinid="ht_node" target="179.0/2.2/117.0" tilt="-2.57" title="" url="{node12}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -249,7 +248,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-0.26" skinid="ht_node" target="-127.2/1.4/108.2" tilt="-1.42" title="" url="{node11}"/>
+      <hotspot description="" id="Point01" pan="-0.26" skinid="ht_node" target="-120.9/-1.8/108.2" tilt="-1.42" title="" url="{node11}"/>
       <hotspot description="" id="Point02" pan="-179.04" skinid="ht_node" target="130.9/9.2/126.6" tilt="-0.97" title="" url="{node13}"/>
     </hotspots>
     <media/>
@@ -272,7 +271,8 @@
     <hotspots>
       <hotspot description="" id="Point01" pan="-177.51" skinid="ht_node" target="0.0/0.0/100.0" tilt="-3.59" title="" url="{node12}"/>
       <hotspot description="" id="Point02" pan="-88.46" skinid="ht_node" target="134.1/-1.2/117.0" tilt="-4.4" title="" url="{node8}"/>
-      <hotspot description="" id="Point03" pan="90.95" skinid="ht_node" target="-110.4/1.1/117.0" tilt="-5.94" title="" url="{node14}"/>
+      <hotspot description="" id="Point03" pan="90.84" skinid="ht_node" target="-127.3/-1.7/117.0" tilt="-6.04" title="" url="{node14}"/>
+      <hotspot description="" id="Point04" pan="-28.73" skinid="ht_node" target="47.5/0.2/100.0" tilt="-2.87" title="" url="{node19}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -292,7 +292,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="6.26" skinid="ht_node" target="-134.4/-0.1/117.0" tilt="-7.33" title="" url="{node13}"/>
+      <hotspot description="" id="Point01" pan="6.26" skinid="ht_node" target="-89.0/0.6/117.0" tilt="-7.33" title="" url="{node13}"/>
       <hotspot description="" id="Point02" pan="-143.76" skinid="ht_node" target="24.0/1.4/136.9" tilt="-0.93" title="" url="{node15}"/>
     </hotspots>
     <media/>
@@ -313,8 +313,8 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="83.12" skinid="ht_node" target="-21.3/-0.0/126.6" tilt="-0.78" title="" url="{node14}"/>
-      <hotspot description="" id="Point02" pan="0.32" skinid="ht_node" target="0.0/0.0/100.0" tilt="-2.54" title="" url="{node16}"/>
+      <hotspot description="" id="Point01" pan="83.12" skinid="ht_node" target="5.5/-3.3/126.6" tilt="-0.78" title="" url="{node14}"/>
+      <hotspot description="" id="Point02" pan="-0.199989" skinid="ht_node" target="0.0/0.0/100.0" tilt="-0.64" title="" url="{node16}"/>
     </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
@@ -334,7 +334,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="0.89" skinid="ht_node" target="134.3/0.8/126.6" tilt="-0.47" title="" url="{node17}"/>
+      <hotspot description="" id="Point01" pan="-0.27" skinid="ht_node" target="-178.0/-2.3/126.6" tilt="0.26" title="" url="{node17}"/>
       <hotspot description="" id="Point02" pan="179.79" skinid="ht_node" target="" tilt="-1.52" title="" url="{node15}"/>
     </hotspots>
     <media/>
@@ -355,7 +355,7 @@
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
     <hotspots>
-      <hotspot description="" id="Point01" pan="-0.26" skinid="ht_node" target="179.6/1.0/100.0" tilt="-0.79" title="" url="{node16}"/>
+      <hotspot description="" id="Point01" pan="-0.469991" skinid="ht_node" target="179.6/1.0/100.0" tilt="-0.9" title="" url="{node16}"/>
       <hotspot description="" id="Point02" pan="-173.48" skinid="ht_node" target="138.9/0.4/126.6" tilt="-0.45" title="" url="{node20}"/>
     </hotspots>
     <media/>
@@ -375,6 +375,9 @@
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-131.32" skinid="ht_node" target="-19.0/-2.3/100.0" tilt="-1.75" title="" url="{node19}"/>
+    </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
@@ -392,6 +395,10 @@
       <min fov="1" pan="0" tilt="-90"/>
       <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
     </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-44.28" skinid="ht_node" target="-177.0/-3.5/100.0" tilt="-4.12" title="" url="{node13}"/>
+      <hotspot description="" id="Point02" pan="51.26" skinid="ht_node" target="0.0/0.0/100.0" tilt="-2.77" title="" url="{node18}"/>
+    </hotspots>
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
