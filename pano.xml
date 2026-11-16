@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour apprev="22555" appversion="8.0.2" hassounds="0" start="node1">
   <panorama id="node1">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:24:11" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:24" description="" heading="0" hideinlist="0" info="Какая-то информация 1" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="" title=""/>
@@ -22,9 +23,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node2">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:27:54" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:27" description="" heading="0" hideinlist="0" info="Какая-то информация 2" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="" title=""/>
@@ -44,9 +46,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node3">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:32:16" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:32" description="" heading="0" hideinlist="0" info="Какая-то информация 3" latitude="-1000.00000000" longitude="0.00000000" nodeid="node3" source="" tags="" title=""/>
@@ -63,9 +66,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node4">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:39:35" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:39" description="" heading="0" hideinlist="0" info="Какая-то информация 4" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="" title=""/>
@@ -85,9 +89,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node5">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:45:03" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:45" description="" heading="0" hideinlist="0" info="Какая-то информация 5" latitude="-1000.00000000" longitude="0.00000000" nodeid="node5" source="" tags="" title=""/>
@@ -104,9 +109,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node6">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:52:15" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:52" description="" heading="0" hideinlist="0" info="Какая-то информация 6" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="" title=""/>
@@ -123,9 +129,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node7">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:57:52" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:57" description="" heading="0" hideinlist="0" info="Какая-то информация 7" latitude="-1000.00000000" longitude="0.00000000" nodeid="node7" source="" tags="" title=""/>
@@ -143,9 +150,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node8">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:02:45" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:02" description="" heading="0" hideinlist="0" info="Какая-то информация 8" latitude="-1000.00000000" longitude="0.00000000" nodeid="node8" source="" tags="" title=""/>
@@ -164,9 +172,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node9">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:08:44" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:08" description="" heading="0" hideinlist="0" info="Какая-то информация 9" latitude="-1000.00000000" longitude="0.00000000" nodeid="node9" source="" tags="" title=""/>
@@ -184,9 +193,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node10">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:12:27" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:12" description="" heading="0" hideinlist="0" info="Какая-то информация 10" latitude="-1000.00000000" longitude="0.00000000" nodeid="node10" source="" tags="" title=""/>
@@ -204,9 +214,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node11">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:15:44" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:15" description="" heading="0" hideinlist="0" info="Какая-то информация 11" latitude="-1000.00000000" longitude="0.00000000" nodeid="node11" source="" tags="" title=""/>
@@ -224,9 +235,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node12">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:19:27" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:19" description="" heading="0" hideinlist="0" info="Какая-то информация 12" latitude="-1000.00000000" longitude="0.00000000" nodeid="node12" source="" tags="" title=""/>
@@ -244,9 +256,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node13">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:22:54" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:22" description="" heading="0" hideinlist="0" info="Какая-то информация 13" latitude="-1000.00000000" longitude="0.00000000" nodeid="node13" source="" tags="" title=""/>
@@ -265,9 +278,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node14">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:26:34" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:26" description="" heading="0" hideinlist="0" info="Какая-то информация 14" latitude="-1000.00000000" longitude="0.00000000" nodeid="node14" source="" tags="" title=""/>
@@ -285,9 +299,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node15">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:29:35" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:29" description="" heading="0" hideinlist="0" info="Какая-то информация 15" latitude="-1000.00000000" longitude="0.00000000" nodeid="node15" source="" tags="" title=""/>
@@ -305,9 +320,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node16">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:33:31" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:33" description="" heading="0" hideinlist="0" info="Какая-то информация 16" latitude="-1000.00000000" longitude="0.00000000" nodeid="node16" source="" tags="" title=""/>
@@ -325,9 +341,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node17">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:38:30" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:38" description="" heading="0" hideinlist="0" info="Какая-то информация 17" latitude="-1000.00000000" longitude="0.00000000" nodeid="node17" source="" tags="" title=""/>
@@ -345,9 +362,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node18">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:43:07" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:43" description="" heading="0" hideinlist="0" info="Какая-то информация 18" latitude="-1000.00000000" longitude="0.00000000" nodeid="node18" source="" tags="" title=""/>
@@ -361,9 +379,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node19">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:46:30" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:46" description="" heading="0" hideinlist="0" info="Какая-то информация 19" latitude="-1000.00000000" longitude="0.00000000" nodeid="node19" source="" tags="" title=""/>
@@ -377,9 +396,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <panorama id="node20">
-    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500">
+    <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
-      <level height="750" predecode="1" preload="1" width="750"/>
+      <level height="750" predecode="0" preload="0" width="750"/>
+      <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:56:13" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:56" description="" heading="0" hideinlist="0" info="Какая-то информация 20" latitude="-1000.00000000" longitude="0.00000000" nodeid="node20" source="" tags="" title=""/>
