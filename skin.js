@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 8.0.2/22555
-// Filename: NPT.ggsk
-// Generated 2026-11-17T08:26:36Z
+// Filename: 
+// Generated 2026-11-17T09:04:48Z
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -2135,6 +2135,7 @@ navigator.share({ url: shareUrl });
 		}
 		me._menu_left_icon_bg.appendChild(me._menu_left_icon_active);
 		me._menu_left.appendChild(me._menu_left_icon_bg);
+		me._safe_area_main.appendChild(me._menu_left);
 		el=me._btn_info_mobile=document.createElement('div');
 		el.ggId="btn_info_mobile";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
@@ -2143,9 +2144,9 @@ navigator.share({ url: shareUrl });
 		el.ggType='container';
 		el.userData=el;
 		hs ='';
-		hs+='bottom : 1px;';
+		hs+='bottom : 33px;';
 		hs+='height : 51px;';
-		hs+='left : 0px;';
+		hs+='left : 32px;';
 		hs+='position : absolute;';
 		hs+='visibility : inherit;';
 		hs+='width : 51px;';
@@ -2252,8 +2253,7 @@ navigator.share({ url: shareUrl });
 		me._info_mobile.ggUpdatePosition=function (useTransition) {
 		}
 		me._btn_info_mobile.appendChild(me._info_mobile);
-		me._menu_left.appendChild(me._btn_info_mobile);
-		me._safe_area_main.appendChild(me._menu_left);
+		me._safe_area_main.appendChild(me._btn_info_mobile);
 		el=me._menu_center=document.createElement('div');
 		el.ggId="menu_center";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
