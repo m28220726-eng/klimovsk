@@ -7,7 +7,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:24:11" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:24" description="" heading="0" hideinlist="0" info="Какая-то информация 1" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:24:11" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:24" description="" heading="0" hideinlist="0" info="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Цех металлообработки&lt;/p>&#xa;&lt;div>" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="126.58" pan="101.256" projection="4" tilt="0.170446"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -29,7 +29,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:27:54" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:27" description="" heading="0" hideinlist="0" info="Какая-то информация 2" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:27:54" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:27" description="" heading="0" hideinlist="0" info="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Цех металлообработки&lt;/p>&#xa;&lt;div>" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -52,7 +52,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:32:16" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:32" description="" heading="0" hideinlist="0" info="Какая-то информация 3" latitude="-1000.00000000" longitude="0.00000000" nodeid="node3" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:32:16" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:32" description="" heading="0" hideinlist="0" info="Участок металлообработки №1" latitude="-1000.00000000" longitude="0.00000000" nodeid="node3" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -72,7 +72,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:39:35" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:39" description="" heading="0" hideinlist="0" info="Какая-то информация 4" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:39:35" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:39" description="" heading="0" hideinlist="0" info="Участок полуавтоматической гибки" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -94,7 +94,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:45:03" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:45" description="" heading="0" hideinlist="0" info="Какая-то информация 5" latitude="-1000.00000000" longitude="0.00000000" nodeid="node5" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:45:03" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:45" description="" heading="0" hideinlist="0" info="Участок металлообработки №2" latitude="-1000.00000000" longitude="0.00000000" nodeid="node5" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -114,7 +114,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:52:15" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:52" description="" heading="0" hideinlist="0" info="Какая-то информация 6" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:52:15" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:52" description="" heading="0" hideinlist="0" info="Участок вибродиагностики и балансировки вентагрегатов" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -134,7 +134,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:57:52" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:57" description="" heading="0" hideinlist="0" info="Какая-то информация 7" latitude="-1000.00000000" longitude="0.00000000" nodeid="node7" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:57:52" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:57" description="" heading="0" hideinlist="0" info="Участок хранения и комплектации полуфабрикатов" latitude="-1000.00000000" longitude="0.00000000" nodeid="node7" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -155,7 +155,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:02:45" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:02" description="" heading="0" hideinlist="0" info="Какая-то информация 8" latitude="-1000.00000000" longitude="0.00000000" nodeid="node8" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:02:45" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:02" description="" heading="0" hideinlist="0" info="Панельный участок" latitude="-1000.00000000" longitude="0.00000000" nodeid="node8" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -177,7 +177,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:08:44" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:08" description="" heading="0" hideinlist="0" info="Какая-то информация 9" latitude="-1000.00000000" longitude="0.00000000" nodeid="node9" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:08:44" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:08" description="" heading="0" hideinlist="0" info="Участок сборки каркасного оборудования" latitude="-1000.00000000" longitude="0.00000000" nodeid="node9" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -198,7 +198,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:12:27" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:12" description="" heading="0" hideinlist="0" info="Какая-то информация 10" latitude="-1000.00000000" longitude="0.00000000" nodeid="node10" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:12:27" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:12" description="" heading="0" hideinlist="0" info="Заготовительный участок №1" latitude="-1000.00000000" longitude="0.00000000" nodeid="node10" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -219,7 +219,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:15:44" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:15" description="" heading="0" hideinlist="0" info="Какая-то информация 11" latitude="-1000.00000000" longitude="0.00000000" nodeid="node11" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:15:44" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:15" description="" heading="0" hideinlist="0" info="Участок выходного контроля готовой продукции" latitude="-1000.00000000" longitude="0.00000000" nodeid="node11" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -240,7 +240,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:19:27" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:19" description="" heading="0" hideinlist="0" info="Какая-то информация 12" latitude="-1000.00000000" longitude="0.00000000" nodeid="node12" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:19:27" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:19" description="" heading="0" hideinlist="0" info="Участок сборки канального оборудования" latitude="-1000.00000000" longitude="0.00000000" nodeid="node12" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -261,7 +261,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:22:54" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:22" description="" heading="0" hideinlist="0" info="Какая-то информация 13" latitude="-1000.00000000" longitude="0.00000000" nodeid="node13" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:22:54" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:22" description="" heading="0" hideinlist="0" info="Участок заготовки полуфабрикатов круглого канального оборудования" latitude="-1000.00000000" longitude="0.00000000" nodeid="node13" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -284,7 +284,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:26:34" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:26" description="" heading="0" hideinlist="0" info="Какая-то информация 14" latitude="-1000.00000000" longitude="0.00000000" nodeid="node14" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:26:34" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:26" description="" heading="0" hideinlist="0" info="Оперативный склад сырья и материалов" latitude="-1000.00000000" longitude="0.00000000" nodeid="node14" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -305,7 +305,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:29:35" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:29" description="" heading="0" hideinlist="0" info="Какая-то информация 15" latitude="-1000.00000000" longitude="0.00000000" nodeid="node15" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:29:35" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:29" description="" heading="0" hideinlist="0" info="Заготовительный участок №2" latitude="-1000.00000000" longitude="0.00000000" nodeid="node15" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -326,7 +326,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:33:31" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:33" description="" heading="0" hideinlist="0" info="Какая-то информация 16" latitude="-1000.00000000" longitude="0.00000000" nodeid="node16" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:33:31" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:33" description="" heading="0" hideinlist="0" info="Склад готовой продукции" latitude="-1000.00000000" longitude="0.00000000" nodeid="node16" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -347,7 +347,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:38:30" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:38" description="" heading="0" hideinlist="0" info="Какая-то информация 17" latitude="-1000.00000000" longitude="0.00000000" nodeid="node17" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:38:30" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:38" description="" heading="0" hideinlist="0" info="Зона комплектации к отгрузке" latitude="-1000.00000000" longitude="0.00000000" nodeid="node17" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -368,7 +368,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:43:07" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:43" description="" heading="0" hideinlist="0" info="Какая-то информация 18" latitude="-1000.00000000" longitude="0.00000000" nodeid="node18" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:43:07" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:43" description="" heading="0" hideinlist="0" info="Участок заготовки полуфабрикатов осевых вентиляторов" latitude="-1000.00000000" longitude="0.00000000" nodeid="node18" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -388,7 +388,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:46:30" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:46" description="" heading="0" hideinlist="0" info="Какая-то информация 19" latitude="-1000.00000000" longitude="0.00000000" nodeid="node19" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:46:30" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:46" description="" heading="0" hideinlist="0" info="Участок заготовки полуфабрикатов осевых вентиляторов" latitude="-1000.00000000" longitude="0.00000000" nodeid="node19" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -409,7 +409,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:56:13" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:56" description="" heading="0" hideinlist="0" info="Какая-то информация 20" latitude="-1000.00000000" longitude="0.00000000" nodeid="node20" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T10:56:13" comment="" copyright="" customnodeid="" datetime="09.11.2026 10:56" description="" heading="0" hideinlist="0" info="Склад уличного хранения готовой продукции" latitude="-1000.00000000" longitude="0.00000000" nodeid="node20" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -423,7 +423,7 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{0918f2ec-4eeb-4590-aedd-fffd9fa0a3b5}"/>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{04a619c3-5927-4be3-a521-f178d5e6eb48}"/>
     <autorotate delay="5.00" enabled="1" horizonfromdefview="0" nodedelay="0.00" nodefilter="" noderandom="1" returntohorizon="0.000" speed="-0.050" startloaded="0" useanimation="0"/>
     <transition blendcolor="0x000000" blendtime="0.5" delay="none" enabled="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="6" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>

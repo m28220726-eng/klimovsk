@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 8.0.2/22555
-// Filename: NPT.ggsk
-// Generated 2026-11-16T18:47:50Z
+// Filename: 
+// Generated 2026-11-17T08:10:25Z
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -1941,7 +1941,7 @@ navigator.share({ url: shareUrl });
 		el.ggType='rectangle';
 		el.userData=el;
 		hs ='';
-		hs+='background : #f7a600;';
+		hs+='background : #fbba00;';
 		hs+='border : 0px solid #000000;';
 		hs+='border-radius : 25px;';
 		hs+='bottom : 0px;';
@@ -3306,7 +3306,7 @@ navigator.share({ url: shareUrl });
 		el.ggType='rectangle';
 		el.userData=el;
 		hs ='';
-		hs+='background : #00a870;';
+		hs+='background : #fbba00;';
 		hs+='border : 0px solid #000000;';
 		hs+='border-radius : 25px;';
 		hs+='cursor : pointer;';
@@ -11642,8 +11642,7 @@ alert("The current view has been copied.");
 		els.setAttribute('style',hs);
 		me._info_popup_text_phone.ggUpdateText=function() {
 			var params = [];
-			params.push(String(player._(me.ggUserdata.information)));
-			var hs = player._("%1", params);
+			var hs = player._("", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
@@ -11651,9 +11650,6 @@ alert("The current view has been copied.");
 			}
 		}
 		me._info_popup_text_phone.ggUpdateText();
-		player.addListener('changenode', function() {
-			me._info_popup_text_phone.ggUpdateText();
-		});
 		el.appendChild(els);
 		me._info_popup_text_phone.ggIsActive=function() {
 			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
@@ -13351,12 +13347,12 @@ alert("The current view has been copied.");
 		hs ='';
 		hs+='border : 0px solid #ffffff;';
 		hs+='color : rgba(255,255,255,1);';
-		hs+='height : 190px;';
-		hs+='left : -289px;';
+		hs+='height : 167px;';
+		hs+='left : -270px;';
 		hs+='position : absolute;';
-		hs+='top : 30px;';
+		hs+='top : 37px;';
 		hs+='visibility : inherit;';
-		hs+='width : 320px;';
+		hs+='width : 280px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -13365,6 +13361,8 @@ alert("The current view has been copied.");
 		hs+='width: 100%;';
 		hs+='height: auto;';
 		hs+='max-height: 100%;';
+		hs+='font-size: 18px;';
+		hs+='font-weight: normal;';
 		hs+='text-align: center;';
 		hs+='position: absolute;';
 		hs+='top: 50%;';
