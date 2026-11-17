@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 8.0.2/22555
 // Filename: NPT.ggsk
-// Generated 2026-11-17T17:02:42Z
+// Generated 2026-11-17T18:56:57Z
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -13442,32 +13442,6 @@ alert("The current view has been copied.");
 		me._local_fonts.ggUpdatePosition=function (useTransition) {
 		}
 		me.divSkin.appendChild(me._local_fonts);
-		el=me._intro_overlay=document.createElement('div');
-		el.ggId="intro_overlay";
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_code ";
-		el.ggType='code';
-		el.userData=el;
-		hs ='';
-		hs+='height : 100%;';
-		hs+='left : 0px;';
-		hs+='position : absolute;';
-		hs+='top : 0px;';
-		hs+='visibility : inherit;';
-		hs+='width : 100%;';
-		hs+='pointer-events:none;';
-		el.setAttribute('style',hs);
-		el.style.transformOrigin='50% 50%';
-		me._intro_overlay.ggIsActive=function() {
-			return false;
-		}
-		el.ggElementNodeId=function() {
-			return player.getCurrentNode();
-		}
-		me._intro_overlay.ggUpdatePosition=function (useTransition) {
-		}
-		me.divSkin.appendChild(me._intro_overlay);
 		el=me._info_popup_2=document.createElement('div');
 		el.ggId="info_popup_2";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
@@ -14015,6 +13989,32 @@ alert("The current view has been copied.");
 		me._info_window_mobile.appendChild(me._info_text_mobile);
 		me._info_popup_mobile.appendChild(me._info_window_mobile);
 		me.divSkin.appendChild(me._info_popup_mobile);
+		el=me._intro_overlay=document.createElement('div');
+		el.ggId="intro_overlay";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_code ";
+		el.ggType='code';
+		el.userData=el;
+		hs ='';
+		hs+='height : 100%;';
+		hs+='left : 0px;';
+		hs+='position : absolute;';
+		hs+='top : 0px;';
+		hs+='visibility : inherit;';
+		hs+='width : 100%;';
+		hs+='pointer-events:none;';
+		el.setAttribute('style',hs);
+		el.style.transformOrigin='50% 50%';
+		me._intro_overlay.ggIsActive=function() {
+			return false;
+		}
+		el.ggElementNodeId=function() {
+			return player.getCurrentNode();
+		}
+		me._intro_overlay.ggUpdatePosition=function (useTransition) {
+		}
+		me.divSkin.appendChild(me._intro_overlay);
 		me._menu_left.logicBlock_visible();
 		me._menu_left_slider.logicBlock_position();
 		me._menu_left_slider.logicBlock_visible();
@@ -14232,78 +14232,457 @@ alert("The current view has been copied.");
 pano.on("modelloaded", () => { pano.setVariableValue("model_loading", false); });
 		me._model_load_spinner.logicBlock_size();
 		me._model_load_spinner.logicBlock_visible();
-		el = me._intro_overlay;
-		/* CTA виртуального тура: поставьте классы на соответствующие элементы блока */
-.tour-cta {
-  box-sizing: border-box;
-  width: 100%;
-  margin-top: clamp(24px, 4vw, 40px);
-  padding: clamp(20px, 3vw, 32px);
-  border: 1px solid rgba(255, 255, 255, 0.16);
-  border-radius: 20px;
-  background: rgba(255, 255, 255, 0.04);
-}
-
-.tour-cta__text {
-  max-width: 38ch;
-  margin: 0 auto 20px;
-  color: #c8d2d8;
-  font-size: clamp(16px, 2vw, 20px);
-  line-height: 1.5;
-  text-align: center;
-}
-
-.tour-cta__button {
-  box-sizing: border-box;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 12px;
-  width: 100%;
-  min-height: 56px; /* touch target */
-  padding: 16px 20px;
-  border: 0;
-  border-radius: 14px;
-  background: #ffad18;
-  color: #17242c;
-  font: inherit;
-  font-size: clamp(17px, 2vw, 20px);
-  font-weight: 700;
-  line-height: 1.25;
-  text-align: center;
-  text-decoration: none;
-  overflow-wrap: anywhere;
-  transition: background-color 160ms ease, transform 160ms ease;
-}
-
-.tour-cta__button:hover { background: #ffb72e; }
-.tour-cta__button:active { transform: translateY(1px); }
-.tour-cta__button:focus-visible { outline: 3px solid #fff; outline-offset: 3px; }
-.tour-cta__arrow { flex: 0 0 auto; font-size: 1.15em; }
-
-@media (max-width: 600px) {
-  .tour-cta {
-    margin-top: 24px;
-    padding: 18px;
-    border-radius: 16px;
-  }
-  .tour-cta__text { margin-bottom: 16px; font-size: 16px; line-height: 1.45; }
-  .tour-cta__button {
-    min-height: 56px;
-    padding: 15px 16px;
-    border-radius: 12px;
-    font-size: 17px;
-  }
-}
-
-@media (max-width: 360px) {
-  .tour-cta { padding: 14px; }
-  .tour-cta__button { gap: 8px; padding-inline: 12px; font-size: 16px; }
-}
-;
 		me.elementMouseOver['icon_close_2']=false;
 		me._icon_close_2.logicBlock_visible();
 		me._icon_close_mobile.logicBlock_visible();
+		el = me._intro_overlay;
+		(function () {
+  var overlayId = "p2vr-intro-overlay";
+
+  // Не создавать заставку повторно
+  if (document.getElementById(overlayId)) return;
+
+  function createIntro() {
+    if (!document.body || document.getElementById(overlayId)) return;
+
+    var style = document.createElement("style");
+    style.id = "p2vr-intro-style";
+    style.textContent = `
+      #p2vr-intro-overlay,
+      #p2vr-intro-overlay * {
+        box-sizing: border-box;
+      }
+
+      #p2vr-intro-overlay {
+        position: fixed;
+        inset: 0;
+        z-index: 2147483000;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding:
+          max(16px, env(safe-area-inset-top))
+          max(16px, env(safe-area-inset-right))
+          max(16px, env(safe-area-inset-bottom))
+          max(16px, env(safe-area-inset-left));
+        overflow: auto;
+        -webkit-overflow-scrolling: touch;
+        background: rgba(12, 18, 27, 0.48);
+        -webkit-backdrop-filter: blur(8px);
+        backdrop-filter: blur(8px);
+        color: #fff;
+        font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont,
+          "Segoe UI", Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        text-rendering: optimizeLegibility;
+      }
+
+      @supports (align-items: safe center) {
+        #p2vr-intro-overlay {
+          align-items: safe center;
+        }
+      }
+
+      #p2vr-intro-overlay .intro-card {
+        position: relative;
+        width: min(560px, 100%);
+        max-height: calc(100vh - 32px);
+        max-height: calc(100dvh - 32px);
+        overflow: auto;
+        padding: clamp(28px, 5vw, 42px);
+        border: 1px solid rgba(255, 255, 255, 0.34);
+        border-radius: 22px;
+        background: rgba(255, 255, 255, 0.16);
+        -webkit-backdrop-filter: blur(24px) saturate(145%);
+        backdrop-filter: blur(24px) saturate(145%);
+        box-shadow:
+          0 24px 70px rgba(0, 0, 0, 0.28),
+          inset 0 1px 0 rgba(255, 255, 255, 0.24);
+      }
+
+      #p2vr-intro-overlay .intro-mobile {
+        display: none;
+      }
+
+      #p2vr-intro-overlay .intro-desktop {
+        display: block;
+      }
+
+      #p2vr-intro-overlay .intro-kicker {
+        margin: 0 0 10px;
+        color: rgba(255, 255, 255, 0.78);
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: 0.14em;
+        line-height: 1.4;
+        text-align: center;
+        text-transform: uppercase;
+      }
+
+      #p2vr-intro-overlay h1 {
+        max-width: 14em;
+        margin: 0 auto 22px;
+        color: #fff;
+        font-size: clamp(26px, 5vw, 34px);
+        font-weight: 700;
+        letter-spacing: -0.035em;
+        line-height: 1.14;
+        text-align: center;
+        text-wrap: balance;
+        text-shadow: 0 2px 14px rgba(0, 0, 0, 0.2);
+      }
+
+      #p2vr-intro-overlay .intro-list {
+        display: grid;
+        gap: 14px;
+        width: 100%;
+        max-width: 450px;
+        margin: 0 auto;
+      }
+
+      #p2vr-intro-overlay .intro-item {
+        display: grid;
+        grid-template-columns: 32px minmax(0, 1fr);
+        gap: 12px;
+        align-items: start;
+      }
+
+      #p2vr-intro-overlay .intro-icon {
+        display: flex;
+        width: 32px;
+        height: 32px;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid rgba(255, 255, 255, 0.28);
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.14);
+        color: #fff;
+      }
+
+      #p2vr-intro-overlay .intro-icon svg {
+        display: block;
+        width: 19px;
+        height: 19px;
+        overflow: visible;
+      }
+
+      #p2vr-intro-overlay .intro-item p {
+        min-width: 0;
+        margin: 2px 0 0;
+        color: rgba(255, 255, 255, 0.92);
+        font-size: 16px;
+        line-height: 1.55;
+        overflow-wrap: anywhere;
+        text-shadow: 0 1px 8px rgba(0, 0, 0, 0.18);
+      }
+
+      #p2vr-intro-overlay .intro-item strong {
+        color: #fff;
+        font-weight: 700;
+      }
+
+      #p2vr-intro-overlay .intro-start {
+        display: flex;
+        min-width: 190px;
+        min-height: 50px;
+        align-items: center;
+        justify-content: center;
+        margin: 28px auto 0;
+        padding: 13px 26px;
+        border: 1px solid rgba(255, 255, 255, 0.42);
+        border-radius: 999px;
+        background: #FBBA00;
+        color: #202124;
+        font: inherit;
+        font-size: 16px;
+        font-weight: 700;
+        cursor: pointer;
+        touch-action: manipulation;
+        box-shadow: 0 8px 24px rgba(251, 186, 0, 0.24);
+        transition:
+          background-color 150ms ease,
+          color 150ms ease,
+          box-shadow 150ms ease,
+          transform 150ms ease;
+      }
+
+      #p2vr-intro-overlay .intro-start:hover {
+        background: #FFCE3D;
+        color: #202124;
+        box-shadow: 0 10px 28px rgba(251, 186, 0, 0.34);
+        transform: translateY(-1px);
+      }
+
+      #p2vr-intro-overlay .intro-start:active {
+        transform: translateY(0);
+      }
+
+      #p2vr-intro-overlay .intro-close {
+        position: absolute;
+        top: 12px;
+        right: 14px;
+        display: flex;
+        width: 38px;
+        height: 38px;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+        border: 1px solid rgba(255, 255, 255, 0.24);
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.12);
+        color: transparent;
+        font-size: 0;
+        line-height: 0;
+        cursor: pointer;
+        touch-action: manipulation;
+      }
+
+      #p2vr-intro-overlay .intro-close::before,
+      #p2vr-intro-overlay .intro-close::after {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 14px;
+        height: 2px;
+        border-radius: 2px;
+        background: #fff;
+        content: "";
+        transform: translate(-50%, -50%) rotate(45deg);
+      }
+
+      #p2vr-intro-overlay .intro-close::after {
+        transform: translate(-50%, -50%) rotate(-45deg);
+      }
+
+      #p2vr-intro-overlay .intro-close:hover {
+        background: rgba(255, 255, 255, 0.22);
+      }
+
+      #p2vr-intro-overlay .intro-start:focus-visible,
+      #p2vr-intro-overlay .intro-close:focus-visible {
+        outline: 3px solid #fff;
+        outline-offset: 3px;
+      }
+
+      @supports not ((backdrop-filter: blur(1px)) or
+                     (-webkit-backdrop-filter: blur(1px))) {
+        #p2vr-intro-overlay .intro-card {
+          background: rgba(31, 39, 49, 0.94);
+        }
+      }
+
+      /* Телефоны и сенсорные устройства */
+      @media (max-width: 700px), (hover: none) and (pointer: coarse) {
+        #p2vr-intro-overlay .intro-mobile {
+          display: block;
+        }
+
+        #p2vr-intro-overlay .intro-desktop {
+          display: none;
+        }
+
+        #p2vr-intro-overlay .intro-card {
+          width: min(500px, 100%);
+          padding: 30px 22px 24px;
+          border-radius: 18px;
+        }
+
+        #p2vr-intro-overlay h1 {
+          padding: 0 10px;
+          margin-bottom: 20px;
+          font-size: clamp(25px, 7vw, 30px);
+        }
+
+        #p2vr-intro-overlay .intro-list {
+          gap: 13px;
+        }
+
+        #p2vr-intro-overlay .intro-item {
+          grid-template-columns: 32px minmax(0, 1fr);
+          gap: 11px;
+        }
+
+        #p2vr-intro-overlay .intro-item p {
+          font-size: 15px;
+          line-height: 1.5;
+        }
+
+        #p2vr-intro-overlay .intro-start {
+          width: 100%;
+          max-width: 260px;
+          margin-top: 24px;
+        }
+      }
+
+      @media (max-width: 360px) {
+        #p2vr-intro-overlay {
+          padding: 12px;
+        }
+
+        #p2vr-intro-overlay .intro-card {
+          padding: 28px 17px 20px;
+        }
+
+        #p2vr-intro-overlay .intro-item {
+          grid-template-columns: 29px minmax(0, 1fr);
+          gap: 9px;
+        }
+
+        #p2vr-intro-overlay .intro-icon {
+          width: 29px;
+          height: 29px;
+        }
+
+        #p2vr-intro-overlay .intro-item p {
+          font-size: 14px;
+        }
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        #p2vr-intro-overlay .intro-start {
+          transition: none;
+        }
+      }
+    `;
+
+    document.head.appendChild(style);
+
+    var overlay = document.createElement("div");
+    overlay.id = overlayId;
+    overlay.setAttribute("role", "dialog");
+    overlay.setAttribute("aria-modal", "true");
+    overlay.setAttribute("aria-label", "Инструкция к виртуальному туру");
+
+    overlay.innerHTML = `
+      <section class="intro-card">
+
+        <button
+          class="intro-close"
+          type="button"
+          aria-label="Закрыть инструкцию"
+        >×</button>
+
+        <!-- Мобильная версия -->
+        <div class="intro-view intro-mobile">
+          <p class="intro-kicker">Виртуальный тур</p>
+          <h1>Добро пожаловать!</h1>
+
+          <div class="intro-list">
+            <div class="intro-item">
+              <span class="intro-icon" aria-hidden="true">
+                <!-- Иконка пальца -->
+                <svg viewBox="0 0 24 24" fill="none"
+                     stroke="currentColor" stroke-width="1.8"
+                     stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M8.2 11V5.8a1.6 1.6 0 0 1 3.2 0v4.1"/>
+                  <path d="M11.4 9.8a1.55 1.55 0 0 1 3.1 0v1.1"/>
+                  <path d="M14.5 10.4a1.5 1.5 0 0 1 3 0v2"/>
+                  <path d="M17.5 12a1.5 1.5 0 0 1 3 0v3.1c0 3.6-2.4 6-6 6h-1.1c-2.2 0-3.5-.8-4.7-2.3l-2.4-3a1.55 1.55 0 0 1 2.4-2l1.5 1.5V11"/>
+                </svg>
+              </span>
+              <p><strong>Осматривайтесь:</strong> перемещайте панораму пальцем.</p>
+            </div>
+
+            <div class="intro-item">
+              <span class="intro-icon" aria-hidden="true">
+                <!-- Кружок с точкой -->
+                <svg viewBox="0 0 24 24" fill="none"
+                     stroke="currentColor" stroke-width="1.8">
+                  <circle cx="12" cy="12" r="8.5"/>
+                  <circle cx="12" cy="12" r="2.2" fill="currentColor" stroke="none"/>
+                </svg>
+              </span>
+              <p><strong>Переходите дальше:</strong> нажимайте на метки, чтобы открыть другие помещения и узнать больше.</p>
+            </div>
+
+            <div class="intro-item">
+              <span class="intro-icon" aria-hidden="true">
+                <!-- Поворот телефона -->
+                <svg viewBox="0 0 24 24" fill="none"
+                     stroke="currentColor" stroke-width="1.8"
+                     stroke-linecap="round" stroke-linejoin="round">
+                  <rect x="8" y="6" width="8" height="13" rx="1.7"/>
+                  <path d="M11 8h2"/>
+                  <path d="M5.5 10.5A7.5 7.5 0 0 1 18 6.8"/>
+                  <path d="M17.7 4.7 18 7l-2.3.2"/>
+                  <path d="M18.5 14A7.5 7.5 0 0 1 6 17.7"/>
+                  <path d="M6.3 19.8 6 17.5l2.3-.2"/>
+                </svg>
+              </span>
+              <p><strong>На телефоне:</strong> поверните устройство для удобного просмотра.</p>
+            </div>
+          </div>
+
+          <button class="intro-start" type="button">Начать просмотр</button>
+        </div>
+
+        <!-- Версия для ПК -->
+        <div class="intro-view intro-desktop">
+          <p class="intro-kicker">Виртуальный тур</p>
+          <h1>Добро пожаловать!</h1>
+
+          <div class="intro-list">
+            <div class="intro-item">
+              <span class="intro-icon" aria-hidden="true">
+                <!-- Иконка мыши с выделенной левой кнопкой -->
+                <svg viewBox="0 0 24 24" fill="none"
+                     stroke="currentColor" stroke-width="1.7"
+                     stroke-linecap="round" stroke-linejoin="round">
+                  <path d="M12 21a7 7 0 0 0 7-7V10a7 7 0 0 0-14 0v4a7 7 0 0 0 7 7Z"/>
+                  <path d="M12 3v7"/>
+                  <path d="M5.3 8.5A7 7 0 0 1 12 3v7H5.3Z"
+                        fill="#FBBA00" stroke="currentColor"/>
+                </svg>
+              </span>
+              <p><strong>Осматривайтесь:</strong> перемещайте панораму, зажав левую кнопку мыши.</p>
+            </div>
+
+            <div class="intro-item">
+              <span class="intro-icon" aria-hidden="true">
+                <!-- Кружок с точкой -->
+                <svg viewBox="0 0 24 24" fill="none"
+                     stroke="currentColor" stroke-width="1.8">
+                  <circle cx="12" cy="12" r="8.5"/>
+                  <circle cx="12" cy="12" r="2.2" fill="currentColor" stroke="none"/>
+                </svg>
+              </span>
+              <p><strong>Переходите дальше:</strong> нажимайте на метки, чтобы открыть другие помещения и узнать больше.</p>
+            </div>
+          </div>
+
+          <button class="intro-start" type="button">Начать просмотр</button>
+        </div>
+
+      </section>
+    `;
+
+    document.body.appendChild(overlay);
+
+    function closeIntro() {
+      overlay.remove();
+      style.remove();
+      document.removeEventListener("keydown", onKeyDown);
+    }
+
+    function onKeyDown(event) {
+      if (event.key === "Escape") {
+        closeIntro();
+      }
+    }
+
+    overlay.querySelectorAll(".intro-start, .intro-close").forEach(function (button) {
+      button.addEventListener("click", closeIntro);
+    });
+
+    document.addEventListener("keydown", onKeyDown);
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", createIntro, { once: true });
+  } else {
+    createIntro();
+  }
+})();
 		player.addListener('activehotspotchanged', function(event) {
 			if (hotspotTemplates.hasOwnProperty('SkinHotspotClass_ht_node')) {
 				for(var i = 0; i < hotspotTemplates['SkinHotspotClass_ht_node'].length; i++) {
