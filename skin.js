@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 8.0.2/22555
-// Filename: 
-// Generated 2026-11-17T14:59:25Z
+// Filename: NPT.ggsk
+// Generated 2026-11-17T15:36:32Z
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -13817,12 +13817,12 @@ alert("The current view has been copied.");
 		el.userData=el;
 		hs ='';
 		hs+='cursor : pointer;';
-		hs+='height : 30px;';
+		hs+='height : 100%;';
 		hs+='position : absolute;';
-		hs+='right : 13px;';
-		hs+='top : 13px;';
+		hs+='right : 0px;';
+		hs+='top : 0px;';
 		hs+='visibility : inherit;';
-		hs+='width : 30px;';
+		hs+='width : 20%;';
 		hs+='pointer-events:none;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -13852,12 +13852,12 @@ alert("The current view has been copied.");
 		hs ='';
 		hs+='background : rgba(255,255,255,0);';
 		hs+='border : 0px solid #000000;';
-		hs+='height : 36px;';
+		hs+='height : 100%;';
 		hs+='position : absolute;';
-		hs+='right : 0px;';
-		hs+='top : 0px;';
+		hs+='right : 0%;';
+		hs+='top : 0%;';
 		hs+='visibility : inherit;';
-		hs+='width : 36px;';
+		hs+='width : 100%;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -13890,6 +13890,7 @@ alert("The current view has been copied.");
 		el.appendChild(els);
 		el.ggSubElement = els;
 		el.ggId="icon_close_mobile";
+		el.ggDy=0;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=false;
 		el.className="ggskin ggskin_svg ";
@@ -13898,8 +13899,8 @@ alert("The current view has been copied.");
 		hs ='';
 		hs+='height : 40px;';
 		hs+='position : absolute;';
-		hs+='right : 8px;';
-		hs+='top : 6px;';
+		hs+='right : 10px;';
+		hs+='top : calc(50% - ((40px + 0px) / 2) + 0px);';
 		hs+='visibility : hidden;';
 		hs+='width : 40px;';
 		hs+='pointer-events:auto;';
@@ -13961,12 +13962,12 @@ alert("The current view has been copied.");
 		hs ='';
 		hs+='border : 0px solid #ffffff;';
 		hs+='color : rgba(255,255,255,1);';
-		hs+='height : 60%;';
-		hs+='left : 10%;';
+		hs+='height : 100%;';
+		hs+='left : 0%;';
 		hs+='position : absolute;';
-		hs+='top : 20%;';
+		hs+='top : 0%;';
 		hs+='visibility : inherit;';
-		hs+='width : 75%;';
+		hs+='width : 80%;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
