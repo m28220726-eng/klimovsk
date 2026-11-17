@@ -7,7 +7,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:24:11" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:24" description="" heading="0" hideinlist="0" info="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Цех металлообработки&lt;/p>&#xa;&lt;div>" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:24:11" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:24" description="" heading="0" hideinlist="0" info="Цех металлообработки" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="126.58" pan="101.256" projection="4" tilt="0.170446"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
@@ -29,7 +29,7 @@
       <level height="375" predecode="1" preload="1" width="375"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:27:54" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:27" description="" heading="0" hideinlist="0" info="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>Цех металлообработки&lt;/p>&#xa;&lt;div>" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="" title=""/>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-09T09:27:54" comment="" copyright="" customnodeid="" datetime="09.11.2026 9:27" description="" heading="0" hideinlist="0" info="Цех металлообработки" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="" title=""/>
     <view fovmode="2" pannorth="0">
       <start fov="100" pan="0" projection="4" tilt="0"/>
       <flyin fov="170" pan="0" projection="9" tilt="-90"/>
