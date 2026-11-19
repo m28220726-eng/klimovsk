@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 8.0.2/22555
-// Filename: NPT HB.ggsk
-// Generated 2026-11-19T13:49:21Z
+// Filename: 
+// Generated 2026-11-19T14:04:26Z
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_sounds_splashscreen', 2, false, { ignoreInState: 1  });
@@ -8497,6 +8497,119 @@ navigator.share({ url: shareUrl });
 		}
 		me._map.appendChild(me._reset_info);
 		me.divSkin.appendChild(me._map);
+		el=me._btn_home_mobile=document.createElement('div');
+		el.ggId="btn_home_mobile";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_container ";
+		el.ggType='container';
+		el.userData=el;
+		hs ='';
+		hs+='height : 48px;';
+		hs+='left : 32px;';
+		hs+='position : absolute;';
+		hs+='top : 32px;';
+		hs+='visibility : inherit;';
+		hs+='width : 48px;';
+		hs+='pointer-events:none;';
+		el.setAttribute('style',hs);
+		el.style.transformOrigin='50% 50%';
+		me._btn_home_mobile.ggIsActive=function() {
+			return false;
+		}
+		el.ggElementNodeId=function() {
+			return player.getCurrentNode();
+		}
+		me._btn_home_mobile.ggUpdatePosition=function (useTransition) {
+		}
+		el=me._btn_home_mobile0=document.createElement('div');
+		els=me._btn_home_mobile0__img=document.createElement('img');
+		els.className='ggskin ggskin_svg';
+		hs='data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjQwIiB2aWV3Qm94PSIwIDAgNDAgNDAiIHdpZHRoPSI0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KIDxyZWN0IGZpbGw9IiNFRDFDMjQiIGhlaWdodD0iNDAiIHJ4PSIyMCIgd2lkdGg9IjQwIi8+CiA8cGF0aCBkPSJNMTEgMTZMMjAgOUwyOSAxNlYyN0MyOSAyNy41MzA0IDI4Ljc4OTMgMjguMDM5MSAyOC40MTQyIDI4LjQxNDJDMjguMDM5MSAyOC43ODkzIDI3LjUzMDQgMjkgMjcgMjlIMTNDMTIuNDY5NiAyOSAxMS45NjA5IDI4Ljc4OTMgMTEuNTg1OCAyOC40MTQyQzExLjIxMDcgMjguMDM5MSAxMSAyNy41MzA0IDExIDI3Vj'+
+			'E2WiIgc3Ryb2tlPSIjMjAyMDIwIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMS41Ii8+CiA8cGF0aCBkPSJNMTcgMjlWMTlIMjNWMjkiIHN0cm9rZT0iIzIwMjAyMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjEuNSIvPgo8L3N2Zz4K';
+		me._btn_home_mobile0__img.setAttribute('src',hs);
+		hs ='';
+		hs += 'position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;pointer-events:none;;';
+		els.setAttribute('style', hs);
+		els['ondragstart']=function() { return false; };
+		el.appendChild(els);
+		el.ggSubElement = els;
+		elo=me._btn_home_mobile0__imgo=document.createElement('img');
+		elo.className='ggskin ggskin_svg';
+		hs='data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjQwIiB2aWV3Qm94PSIwIDAgNDAgNDAiIHdpZHRoPSI0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KIDxyZWN0IGZpbGw9IiNFRDFDMjQiIGhlaWdodD0iNDAiIHJ4PSIyMCIgd2lkdGg9IjQwIi8+CiA8cGF0aCBkPSJNMTEgMTZMMjAgOUwyOSAxNlYyN0MyOSAyNy41MzA0IDI4Ljc4OTMgMjguMDM5MSAyOC40MTQyIDI4LjQxNDJDMjguMDM5MSAyOC43ODkzIDI3LjUzMDQgMjkgMjcgMjlIMTNDMTIuNDY5NiAyOSAxMS45NjA5IDI4Ljc4OTMgMTEuNTg1OCAyOC40MTQyQzExLjIxMDcgMjguMDM5MSAxMSAyNy41MzA0IDExIDI3Vj'+
+			'E2WiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjEuNSIvPgogPHBhdGggZD0iTTE3IDI5VjE5SDIzVjI5IiBzdHJva2U9IndoaXRlIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMS41Ii8+Cjwvc3ZnPgo=';
+		me._btn_home_mobile0__imgo.setAttribute('src',hs);
+		elo.setAttribute('style','position: absolute;top: 0px;left: 0px;width: 100%;height: 100%;-webkit-user-drag:none;visibility:hidden;pointer-events:none;;');
+		elo['ondragstart']=function() { return false; };
+		el.appendChild(elo);
+		el.ggSubElementOver = elo;
+		el.ggId="btn_home_mobile";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
+		el.ggVisible=false;
+		el.className="ggskin ggskin_svg ";
+		el.ggType='svg';
+		el.userData=el;
+		hs ='';
+		hs+='cursor : pointer;';
+		hs+='height : 48px;';
+		hs+='left : 0px;';
+		hs+='position : absolute;';
+		hs+='top : 0px;';
+		hs+='visibility : hidden;';
+		hs+='width : 48px;';
+		hs+='pointer-events:auto;';
+		el.setAttribute('style',hs);
+		el.style.transformOrigin='50% 50%';
+		me._btn_home_mobile0.ggIsActive=function() {
+			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
+				return this.parentNode.ggIsActive();
+			}
+			return false;
+		}
+		el.ggElementNodeId=function() {
+			return player.getCurrentNode();
+		}
+		me._btn_home_mobile0.logicBlock_visible = function() {
+			var newLogicStateVisible;
+			if (
+				((player.getIsMobile() == true))
+			)
+			{
+				newLogicStateVisible = 0;
+			}
+			else {
+				newLogicStateVisible = -1;
+			}
+			if (me._btn_home_mobile0.ggCurrentLogicStateVisible != newLogicStateVisible) {
+				me._btn_home_mobile0.ggCurrentLogicStateVisible = newLogicStateVisible;
+				me._btn_home_mobile0.style.transition='';
+				if (me._btn_home_mobile0.ggCurrentLogicStateVisible == 0) {
+					me._btn_home_mobile0.style.visibility=(Number(me._btn_home_mobile0.style.opacity)>0||!me._btn_home_mobile0.style.opacity)?'inherit':'hidden';
+					me._btn_home_mobile0.ggVisible=true;
+				}
+				else {
+					me._btn_home_mobile0.style.visibility="hidden";
+					me._btn_home_mobile0.ggVisible=false;
+				}
+			}
+		}
+		me._btn_home_mobile0.onclick=function (e) {
+			player.openUrl("https:\/\/normalvent.ru\/","_parent");
+		}
+		me._btn_home_mobile0.onmouseenter=function (e) {
+			me._btn_home_mobile0__img.style.visibility='hidden';
+			me._btn_home_mobile0__imgo.style.visibility='inherit';
+			me.elementMouseOver['btn_home_mobile0']=true;
+		}
+		me._btn_home_mobile0.onmouseleave=function (e) {
+			me._btn_home_mobile0__img.style.visibility='inherit';
+			me._btn_home_mobile0__imgo.style.visibility='hidden';
+			me.elementMouseOver['btn_home_mobile0']=false;
+		}
+		me._btn_home_mobile0.ggUpdatePosition=function (useTransition) {
+		}
+		me._btn_home_mobile.appendChild(me._btn_home_mobile0);
+		me.divSkin.appendChild(me._btn_home_mobile);
 		el=me._btn_home=document.createElement('div');
 		el.ggId="btn_home";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
@@ -8506,11 +8619,11 @@ navigator.share({ url: shareUrl });
 		el.userData=el;
 		hs ='';
 		hs+='height : 50px;';
-		hs+='left : 90px;';
+		hs+='left : 32px;';
 		hs+='position : absolute;';
 		hs+='top : 32px;';
 		hs+='visibility : inherit;';
-		hs+='width : 150px;';
+		hs+='width : 200px;';
 		hs+='pointer-events:none;';
 		el.setAttribute('style',hs);
 		el.style.transformOrigin='50% 50%';
@@ -8552,7 +8665,7 @@ navigator.share({ url: shareUrl });
 		hs ='';
 		hs+='cursor : pointer;';
 		hs+='height : 48px;';
-		hs+='left : -58px;';
+		hs+='left : 0px;';
 		hs+='position : absolute;';
 		hs+='top : 0px;';
 		hs+='visibility : inherit;';
@@ -14353,6 +14466,8 @@ alert("The current view has been copied.");
 		me._map_close_btn.logicBlock_tabindex();
 		me._map_close_btn_active.logicBlock_visible();
 		me._map_close_btn_active.logicBlock_tabindex();
+		me.elementMouseOver['btn_home_mobile0']=false;
+		me._btn_home_mobile0.logicBlock_visible();
 		me.elementMouseOver['svg_2']=false;
 		me._svg_2.logicBlock_visible();
 		me._languages.logicBlock_position();
@@ -15205,6 +15320,7 @@ pano.on("modelloaded", () => { pano.setVariableValue("model_loading", false); })
 			me._map_node_description.logicBlock_visible();
 			me._map_close_btn.logicBlock_tabindex();
 			me._map_close_btn_active.logicBlock_tabindex();
+			me._btn_home_mobile0.logicBlock_visible();
 			me._svg_2.logicBlock_visible();
 			me._languages.logicBlock_position();
 			me._languages.logicBlock_alpha();
