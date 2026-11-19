@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour apprev="22555" appversion="8.0.2" hassounds="0" start="node1">
-  <panorama id="node1">
+  <panorama hideabout="1" id="node1">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -22,7 +22,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node2">
+  <panorama hideabout="1" id="node2">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -45,7 +45,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node3">
+  <panorama hideabout="1" id="node3">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -65,7 +65,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node4">
+  <panorama hideabout="1" id="node4">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -87,7 +87,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node5">
+  <panorama hideabout="1" id="node5">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -107,7 +107,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node6">
+  <panorama hideabout="1" id="node6">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -127,7 +127,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node7">
+  <panorama hideabout="1" id="node7">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -148,7 +148,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node8">
+  <panorama hideabout="1" id="node8">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -170,7 +170,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node9">
+  <panorama hideabout="1" id="node9">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -191,7 +191,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node10">
+  <panorama hideabout="1" id="node10">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -212,7 +212,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node11">
+  <panorama hideabout="1" id="node11">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -233,7 +233,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node12">
+  <panorama hideabout="1" id="node12">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -254,7 +254,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node13">
+  <panorama hideabout="1" id="node13">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -277,7 +277,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node14">
+  <panorama hideabout="1" id="node14">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -298,7 +298,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node15">
+  <panorama hideabout="1" id="node15">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -319,7 +319,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node16">
+  <panorama hideabout="1" id="node16">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -340,7 +340,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node17">
+  <panorama hideabout="1" id="node17">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -361,7 +361,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node18">
+  <panorama hideabout="1" id="node18">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -381,7 +381,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node19">
+  <panorama hideabout="1" id="node19">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -402,7 +402,7 @@
     <media/>
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
-  <panorama id="node20">
+  <panorama hideabout="1" id="node20">
     <input height="1500" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="510" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.webp" overlap="1" width="1500">
       <level height="1500" predecode="0" preload="0" width="1500"/>
       <level height="750" predecode="0" preload="0" width="750"/>
@@ -426,7 +426,7 @@
     <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{0570ff4c-5afc-4df1-aba9-09e34e100ff7}"/>
     <autorotate delay="5.00" enabled="1" horizonfromdefview="0" nodedelay="0.00" nodefilter="" noderandom="1" returntohorizon="0.000" speed="-0.050" startloaded="0" useanimation="0"/>
     <transition blendcolor="0x000000" blendtime="0.5" delay="none" enabled="1" softedge="0" type="mesh" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="7" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
-    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="1" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="5" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
