@@ -16,7 +16,7 @@
     </view>
     <hotspots>
       <hotspot description="" id="Point01" pan="131.75" skinid="ht_node" target="178.5/1.0/117.0" tilt="-2.83" title="" url="{node6}"/>
-      <hotspot description="" id="Point02" pan="149.14" skinid="ht_node" target="70.7/1.1/100.0" tilt="-3.25" title="" url="{node2}"/>
+      <hotspot description="" id="Point02" pan="143.6" skinid="ht_node" target="70.7/1.1/100.0" tilt="-2.76" title="" url="{node2}"/>
       <hotspot description="" id="Point03" pan="-21.36" skinid="ht_node" target="179.1/-2.8/117.0" tilt="-9.02" title="" url="{node7}"/>
     </hotspots>
     <media/>
